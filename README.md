@@ -53,7 +53,7 @@ This dashboard brings together multiple dimensions of sales data to answer key b
 | **Sales YTD** | `IF([ShowValueForDates],CALCULATE([Sales],DATESYTD(Calendar[Date])))` |
 | **Sum of QTY_Case** | `SUM('Sales Files'[QTY_Case])` |
 | **Sum of Qty_Bottle** | `SUM('Sales Files'[Qty_Bottle])` |
-| **Category** | `Premium Soft Drink` |
+
 
 ---
 
