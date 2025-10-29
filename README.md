@@ -59,7 +59,7 @@ This dashboard brings together multiple dimensions of sales data to answer key b
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Screenshot](./Sales%20Dashboard%20Drinks%20(2)_page-0001.jpg)
+![Sales Dashboard Screenshot](Sales Dashboard.jpg)
 
 ---
 
