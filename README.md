@@ -58,8 +58,7 @@ This dashboard brings together multiple dimensions of sales data to answer key b
 ---
 
 ## 🖼️ Dashboard Preview
-
-![Sales Dashboard Screenshot](Sales Dashboard.jpg)
+![Dashboard Preview](/Sales%20Dashboard.jpg)
 
 ---
 
